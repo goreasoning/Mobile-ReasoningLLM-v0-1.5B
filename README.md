@@ -5,7 +5,7 @@ This repository contains the evaluation code for Mobile-ReasoningLLM-v0, which s
 In this work, we comprehensively consider starting to free the weights of the reference model in the continued learning of Reasoning LLMs that have already been learned after R1-like reinforcement learning and its variants. In our version zero, we further demonstrate that our design of reinforcement learning enhances the reasoning ability of small language models, with SoTA results for 5 reasoning benchmarks for Mobile-Reasoning-LLM-1.5B.
 
 ## News
-- Sep 27, 2025: 🚀 Mobile-ReasoningLLM-v0 models are publicly available on [Hugging Face](https://huggingface.co/collections/facebook/mobilellm-6722be18cb86c20ebe113e95)
+- Sep 27, 2025: 🚀 Mobile-ReasoningLLM-v0 models are publicly available on [Hugging Face](https://github.com/goreasoning/Mobile-ReasoningLLM-v0-1.5B/edit/main/README.md)
 
 ## Evaluation
 ### Step 1. Math Reasoning Tasks
